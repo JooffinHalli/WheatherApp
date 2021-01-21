@@ -1,0 +1,18 @@
+body {
+	background-image: url("clouds.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container {
+	text-align: center;
+	margin-top: 10%;
+	color: white;
+}
+.input, .alert {
+	width: 40%;
+	margin: 10px auto;
+}
+label, button {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
